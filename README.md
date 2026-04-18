@@ -11,9 +11,9 @@ disk-based caching so network calls are only made once.
 ## Installation
 
 ```bash
-pip install .
-# or for development:
-pip install -e ".[dev]"
+pip install ideoplot
+# or for uv:
+uv add ideoplot
 ```
 
 **Dependencies:** `matplotlib`, `pandas`, `requests`, `numpy`
