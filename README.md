@@ -138,8 +138,14 @@ region = bands.for_region("chr13", 32_000_000, 34_000_000)
 │   ├── core.py
 │   ├── fetch.py
 │   └── utils.py
-└── tests/
-    └── test_basic.py
+├── tests/
+|   └── test_basic.py
+├── png/
+|   ├── cancer_genes.png
+|   ├── brca1_exons.png
+|   ├── mlh1_region.png
+|   └── msh2_arrows.png
+
 ```
 
 ---
