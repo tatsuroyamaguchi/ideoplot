@@ -36,7 +36,7 @@ plotter.plot(
 )
 ```
 
-![Hereditary cancer genes](cancer_genes.png)
+![Hereditary cancer genes](png/cancer_genes.png)
 
 ### 2 — Local region view (arrow gene bodies)
 
@@ -52,7 +52,7 @@ viewer.plot_region(
 )
 ```
 
-![MSH2 arrows](msh2_arrows.png)
+![MSH2 arrows](png/msh2_arrows.png)
 
 ### 3 — Local region view with exon/intron structure
 
@@ -65,7 +65,7 @@ viewer.plot_region(
 )
 ```
 
-![BRCA1 exons](brca1_exons.png)
+![BRCA1 exons](png/brca1_exons.png)
 
 ### 4 — Highlight multiple genes in one region
 
@@ -79,7 +79,7 @@ viewer.plot_multiple_genes(
 )
 ```
 
-![MLH1 region](mlh1_region.png)
+![MLH1 region](png/mlh1_region.png)
 
 ### 5 — Dark theme
 
